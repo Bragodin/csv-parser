@@ -1,0 +1,303 @@
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ,Date of registration: 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ,Date of registration: ,Phone: error of length
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: ззз,Date of registration: ззз
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: ззз
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: ззз
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: ззз
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: ззз
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: ззз
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: ззз,Date of registration: ззз,Phone: error of lengthззз
+error of object: {"ID":"100чч1","Name":"Dima9990","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Error of ID length,Name: invalid type, ,Date of registration: invalid type, 
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: invalid type, 
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: invalid type, 
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: invalid type, 
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: invalid type, 
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: invalid type, 
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ruьлщд","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Mail: invalid type, ,Date of registration: invalid type, ,Phone: invalid type, error of length
+error of object: {"ID":"1001","Name":"Dima","Surname":"Dmitriev","Mail":"Dima@mail.ru","Date of registration":"02,05,2016","Phone":"375 29 3526547"}
+Date of registration: invalid type
+error of object: {"ID":"1002","Name":"Vasya","Surname":"Petrov","Mail":"Vasya@mail.ru","Date of registration":"03,07,2015","Phone":"375 44 2569845"}
+Date of registration: invalid type
+error of object: {"ID":"1004","Name":"Max","Surname":"Vasiliev","Mail":"Max@mail.ru","Date of registration":"05.07.2008","Phone":"375 29 14521445"}
+Phone: invalid type
+error of object: {"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29,01,2016","Phone":"375 28 2540033"}
+Date of registration: invalid type
+error of object: {"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28,02,2020","Phone":"375 25 9658410"}
+Date of registration: invalid type
+error of object: {"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24,04,2014","Phone":"375 30 2561421"}
+Date of registration: invalid type
+error of object: {"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ru","Date of registration":"25,00,2018","Phone":"375 29 340157"}
+Date of registration: invalid type,Phone: invalid typeerror of length
