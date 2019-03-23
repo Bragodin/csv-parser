@@ -8,6 +8,5 @@ fs.createReadStream('data.csv')
   .pipe(csv({separator: ';'}))
   .on('data', (data) => results.push(data))
   .on('end', () => {
-    console.log(validator(results));
-    dataBase(results);
+    dataBase(validator(results));
   });
