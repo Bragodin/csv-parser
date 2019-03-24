@@ -4,20 +4,49 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@types/mocha": "^5.2.6",
+    "babel-plugin-istanbul": "^5.1.1",
+    "chai": "^4.2.0",
     "csv": "^5.1.1",
     "csv-parser": "^2.2.0",
     "db": "^1.1.1",
     "fs": "0.0.1-security",
+    "mocha": "^6.0.2",
     "mysql": "^2.16.0",
+    "sqlite3": "^4.0.6",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.3333",
     "url": "^0.11.0",
     "url-parse": "^1.4.4"
   },
   "devDependencies": {
-    "@types/node": "^11.11.0"
+    "@types/node": "^11.11.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "nyc": "^13.3.0",
+    "source-map-support": "^0.5.11"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node parser.ts"
+    "test": "nyc mocha ./test.ts",
+    "start": "ts-node parser.ts"
+  },
+  "nyc": {
+    "include": [
+      "test.ts"
+    ],
+    "extension": [
+      ".ts",
+      ".tsx"
+    ],
+    "require": [
+      "ts-node/register"
+    ],
+    "reporter": [
+      "text-summary",
+      "html"
+    ],
+    "sourceMap": true,
+    "instrument": true
   },
   "author": "",
   "license": "ISC"
